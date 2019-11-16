@@ -1,2 +1,16 @@
-# wzarpp
-wzarppï¼ˆWindows+Tezancloud+Apache+Redis+PostreSQL+PHPï¼‰æ˜¯ä¸€ä¸ªåŠŸèƒ½å¼ºå¤§çš„é›†æˆè½¯ä»¶åŒ…ã€‚
+
+wzarpp£¨Windows+Tezancloud+Apache+Redis+PostreSQL+PHP£©ÊÇÒ»¸ö¹¦ÄÜÇ¿´óµÄ¼¯³ÉÈí¼þ°ü¡£
+
+Ä¿Ç°£¬¼ò»¯ÅäÖÃÓë°²×°£¬ÏÂÔØ¼´ÓÃµÄÔ­Ôò¡£
+
+×¢ÒâÊÂÏî£º
+   1£¬È«ÂÌÉ«°æ±¾
+   2£¬Ö»ÄÜ°²×°ÔÚÈÎÒâÅÌ·ûµÄraid5Ä¿Â¼ÏÂ
+   3, ÇëÏÈ°²×°µ±Ç°Ä¿Â¼ÏÂµÄÈí¼þ¹·Çý¶¯£¬ÒÔ¼°Î¢ÈíÔËÐÐ¿â
+   4£¬Æô¶¯Ö»ÐèÒªÖ´ÐÐraid5Ä¿Â¼ÏÂµÄrun.batÎÄ¼þ
+   5£¬±¾µØ·ÃÎÊÇë·ÃÎÊhttp://127.0.0.1:7000
+   6, ÄÚÍø·ÃÎÊÇë·ÃÎÊhttp://ÄúµÄIP:7000 
+   7, Çë±£Ö¤Èí¼þ¹·²åÔÚUSB½Ó¿ÚÉÏ
+   8£¬Çë¸³ÓèappsÄ¿Â¼everyoneµÄËùÓÐ¿ØÖÆÈ¨£¬²ÅÄÜ±£´æÍ¼Æ¬µÈµÄÕý³£ÉÏ´«¡£
+   9£¬µ±³öÏÖÒì³£ÎÊÌâ£¬¿ÉÒÔÖ±½ÓÔËÐÐrun.batÎÄ¼þ£¬½«×Ô¶¯Çå³ýÒì³£×´Ì¬¡£
+   
