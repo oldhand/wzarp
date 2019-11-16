@@ -1,16 +1,13 @@
 
-wzarpp£¨Windows+Tezancloud+Apache+Redis+PostreSQL+PHP£©ÊÇÒ»¸ö¹¦ÄÜÇ¿´óµÄ¼¯³ÉÈí¼þ°ü¡£
+wzarppï¼ˆWindows+Tezancloud+Apache+Redis+PostreSQL+PHPï¼‰æ˜¯ä¸€ä¸ªwindowçŽ¯å¢ƒä¸‹ï¼ŒåŠŸèƒ½å¼ºå¤§çš„é›†æˆè½¯ä»¶åŒ…ã€‚
 
-Ä¿Ç°£¬¼ò»¯ÅäÖÃÓë°²×°£¬ÏÂÔØ¼´ÓÃµÄÔ­Ôò¡£
+**ç›®å‰ï¼Œç®€åŒ–é…ç½®ä¸Žå®‰è£…ï¼Œä¸‹è½½å³ç”¨çš„åŽŸåˆ™ã€‚
 
-×¢ÒâÊÂÏî£º
-   1£¬È«ÂÌÉ«°æ±¾
-   2£¬Ö»ÄÜ°²×°ÔÚÈÎÒâÅÌ·ûµÄraid5Ä¿Â¼ÏÂ
-   3, ÇëÏÈ°²×°µ±Ç°Ä¿Â¼ÏÂµÄÈí¼þ¹·Çý¶¯£¬ÒÔ¼°Î¢ÈíÔËÐÐ¿â
-   4£¬Æô¶¯Ö»ÐèÒªÖ´ÐÐraid5Ä¿Â¼ÏÂµÄrun.batÎÄ¼þ
-   5£¬±¾µØ·ÃÎÊÇë·ÃÎÊhttp://127.0.0.1:7000
-   6, ÄÚÍø·ÃÎÊÇë·ÃÎÊhttp://ÄúµÄIP:7000 
-   7, Çë±£Ö¤Èí¼þ¹·²åÔÚUSB½Ó¿ÚÉÏ
-   8£¬Çë¸³ÓèappsÄ¿Â¼everyoneµÄËùÓÐ¿ØÖÆÈ¨£¬²ÅÄÜ±£´æÍ¼Æ¬µÈµÄÕý³£ÉÏ´«¡£
-   9£¬µ±³öÏÖÒì³£ÎÊÌâ£¬¿ÉÒÔÖ±½ÓÔËÐÐrun.batÎÄ¼þ£¬½«×Ô¶¯Çå³ýÒì³£×´Ì¬¡£
+##æ³¨æ„äº‹é¡¹ï¼š
+   1ï¼Œå…¨ç»¿è‰²ç‰ˆæœ¬<br>
+   2, è¯·å…ˆå®‰è£…å½“å‰ç›®å½•ä¸‹çš„è½¯ä»¶ç‹—é©±åŠ¨ï¼Œä»¥åŠå¾®è½¯è¿è¡Œåº“<br>
+   3ï¼Œå¯åŠ¨åªéœ€è¦æ‰§è¡Œç›®å½•ä¸‹çš„run.batæ–‡ä»¶<br>
+   4ï¼Œæœ¬åœ°è®¿é—®è¯·è®¿é—®http://127.0.0.1:7000<br>
+   5, å†…ç½‘è®¿é—®è¯·è®¿é—®http://æ‚¨çš„IP:7000 <br>
+   6ï¼Œå½“å‡ºçŽ°å¼‚å¸¸é—®é¢˜ï¼Œå¯ä»¥ç›´æŽ¥è¿è¡Œrun.batæ–‡ä»¶ï¼Œå°†è‡ªåŠ¨æ¸…é™¤å¼‚å¸¸çŠ¶æ€ã€‚<br>
    
