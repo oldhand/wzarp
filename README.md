@@ -1,7 +1,7 @@
 
 wzarpp（Windows+Tezancloud+Apache+Redis+PostreSQL+PHP）是一个window环境下，功能强大的集成软件包。
 
-**目前，简化配置与安装，下载即用的原则。**
+**简化配置与安装，下载即用的原则。**
 
 ## 注意事项：
 - 全绿色版本<br>
