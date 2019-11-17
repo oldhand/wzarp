@@ -5,7 +5,7 @@ wzarp（Windows+Tezancloud+Apache+Redis+PHP）是一个window环境下，功能�
 
 ## 注意事项：
 - 全绿色版本<br>
-- 请先安装当前目录下的软件狗驱动，以及微软运行库<br>
+- 请先安装当前目录微软运行库<br>
 - 启动只需要执行目录下的run.bat文件<br>
 - 本地访问请访问http://127.0.0.1:7000<br>
 - 内网访问请访问http://您的IP:7000 <br>
